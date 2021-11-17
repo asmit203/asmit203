@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Algorithms of AI
-- 📫 How to reach me mail me at asmit.ganguly@gmail.com
+- 📫 How to reach me mail me at ##will_be_declared_later##
 
 <!---
 asmit203/asmit203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
